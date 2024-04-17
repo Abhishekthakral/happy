@@ -14,7 +14,7 @@ no.addEventListener("mouseenter",()=>{
     random();
 })
 yes.addEventListener("click",()=>{
-    heading.innerText="TUm chiya ke sth sth gandu bhi ho";
+    heading.innerText="Haan Bhai tu Ha Chutiya";
     image.src="OIP.jpeg";
     button.classList.add("yes");
 })
